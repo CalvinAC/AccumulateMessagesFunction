@@ -2,7 +2,7 @@
 'RCET0265
 'Fall 2020
 'Accumulate Messages Function
-
+'https://github.com/CalvinAC/AccumulateMessagesFunction/blob/master/AccumulateMessages.vb
 
 Option Explicit On
 Option Strict On
